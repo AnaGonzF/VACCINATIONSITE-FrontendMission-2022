@@ -8,7 +8,7 @@ El producto que se ofrece en la página es la vacuna como tal, de las marcas:
 - AstraZeneca
 - SinoVac
 - Pfizer
-- Moderna
+- Moderna  
 Estos productos son temporales y a causa de la pandemia por Covid-19, por lo que no se tiene claro si en un futuro lejano se seguirá teniendo un gran posicionamiento o si se irán actualizando.  
 Por el estado actual de la situación, está más que claro que en el corto plazo, el producto sí será vendido, esto gracias a que no existen competidores como tal, sino que son puntos de venta o de vacunación, por ello es más fácil tener un buen posicionamiento aún siendo una página nueva.
 
@@ -36,7 +36,7 @@ Con lo anterior, la página web debe tener en concreto las siguientes caracterí
 - Entendible
 - intuitivo
 - Curva de aprendizaje corta
-- Posibilidades nulas de error
+- Posibilidades nulas de error  
 Así, tendremos una página web que cualquier persona pueda entender aún sin ser un nativo digital o sin usar medios digitales.  
 
 Link del sitio en GitHub de la página web [clic aquí](link).
