@@ -9,6 +9,7 @@ El producto que se ofrece en la página es la vacuna como tal, de las marcas:
 - SinoVac
 - Pfizer
 - Moderna  
+
 Estos productos son temporales y a causa de la pandemia por Covid-19, por lo que no se tiene claro si en un futuro lejano se seguirá teniendo un gran posicionamiento o si se irán actualizando.  
 Por el estado actual de la situación, está más que claro que en el corto plazo, el producto sí será vendido, esto gracias a que no existen competidores como tal, sino que son puntos de venta o de vacunación, por ello es más fácil tener un buen posicionamiento aún siendo una página nueva.
 
@@ -27,7 +28,8 @@ Hablando del hábito digital, se debe tomar en cuenta que la mayoría de los adu
 - Promociones en redes sociales (para las generaciones más jóvenes y acostumbradas a su uso)
 - Promociones en radio y TV (para las generaciones que si usan tecnología pero no redes sociales)
 - Promociones en físico (para las generaciones que no utilizan ningún aparato electrónico)
-- Entre otras promociones
+- Entre otras promociones  
+
 La promoción y comunicación necesitan de estudios de mercada y herramientas para conocer a las diferentes generaciones que coexisten y que tienen un objetivo en común con esta pandemia por covid-19: Obtener su esquema de vacunación completo.
 
 ## Despliegue en una página web
@@ -37,6 +39,7 @@ Con lo anterior, la página web debe tener en concreto las siguientes caracterí
 - intuitivo
 - Curva de aprendizaje corta
 - Posibilidades nulas de error  
+
 Así, tendremos una página web que cualquier persona pueda entender aún sin ser un nativo digital o sin usar medios digitales.  
 
 Link del sitio en GitHub de la página web [clic aquí](link).
