@@ -1,7 +1,7 @@
 # Página de vacunación
 
 ## Requerimientos iniciales
-Para esta práctica, se clonará la página de Vacunación que diseñó [Adhiari Subekti](https://dribbble.com/Adhiari_is).  
+Para esta práctica, se clonará la [página de Vacunación](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/blob/main/03%20-%20CSS/practica/landingVacunaci%C3%B3n.png) que diseñó [Adhiari Subekti](https://dribbble.com/Adhiari_is).  
 
 ### La práctica consiste en:
 - Planeación de campaña de vacunación (un poco de mercadotecnia para llegar al sitio).
